@@ -1,0 +1,17 @@
+{
+  "name": "abdila-portfolio",
+  "version": "1.0.0",
+  "description": "Minimalist Photography Portfolio for Abdila Asy",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Abdila Asy",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
